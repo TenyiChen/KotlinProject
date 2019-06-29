@@ -3,6 +3,7 @@ fun main() {
  //  println("Hello Kotlin");
   Human().Hello()
 
+    var age=18
 
 }
 
